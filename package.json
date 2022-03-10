@@ -10,10 +10,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "ikepon <tatsuyanoheya@gmail.com>",
+  "author": "ikepon <jongkyoo20@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^3.2.3",
     "githon": "^3.3.10"
   }
 }
